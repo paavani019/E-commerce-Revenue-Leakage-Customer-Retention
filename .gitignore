@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data (do not commit raw / heavy artifacts)
+archive.zip
+data/raw/
+data/processed/
+
+# Generated reports (keep memo + figures if you want; exclude rebuildable caches)
+# reports/figures/
+
